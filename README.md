@@ -18,8 +18,12 @@ data - папочка с датасетом
 ![image](https://github.com/user-attachments/assets/94935510-d60b-4092-a53e-72ce2f6148fb)
 ![image](https://github.com/user-attachments/assets/5100ea4d-63bd-40cc-b4bf-8d970e3a88d8)
 
+Карта "температур" с низким радиусом 
+![image](https://github.com/user-attachments/assets/c9784eb1-d6ef-4116-8c91-5b1f16774fef)
+
 Европа на карте "температур"
 ![image](https://github.com/user-attachments/assets/4bfbd540-6b73-4231-af5f-40bd970f225c)
+
 
 
 ## Список авторов:
